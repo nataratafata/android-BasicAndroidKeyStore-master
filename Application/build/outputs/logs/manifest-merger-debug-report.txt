@@ -1,0 +1,97 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Sherdon Brown\Downloads\android-BasicAndroidKeyStore-master\android-BasicAndroidKeyStore-master\Application\src\main\AndroidManifest.xml:20:1-41:12
+INJECTED from C:\Users\Sherdon Brown\Downloads\android-BasicAndroidKeyStore-master\android-BasicAndroidKeyStore-master\Application\src\main\AndroidManifest.xml:20:1-41:12
+INJECTED from C:\Users\Sherdon Brown\Downloads\android-BasicAndroidKeyStore-master\android-BasicAndroidKeyStore-master\Application\src\main\AndroidManifest.xml:20:1-41:12
+MERGED from [com.android.support:support-v13:27.0.2] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\support-v13-27.0.2.aar\ffb43aa149fcd366afbf592ad254e5ed\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\501cc50acc9d9531f517c3abbc1fd09d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\08a8dcffaf9de09d197c100d7ecc9e1c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\63f3ef239285e6ff1716f364772a1b29\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\d01d8f271956837aa60c7834faf97fd8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\1abc51fa82b555bb051a35ddf228dfe5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\181035d93796e81c67a2431f672f7edd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\ef45a1dc3ba7d49b523b3e54c1be786e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\43e4fe5068f95509ed9929c40d53132f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\af7ce347e7e4a7a20e4d4269d829fd5f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\21dc6731ff8edcfe3d0bfcbe153a9fa5\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\cffe6ee3a8351826840ee3298befbcbe\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\Sherdon Brown\Downloads\android-BasicAndroidKeyStore-master\android-BasicAndroidKeyStore-master\Application\src\main\AndroidManifest.xml:20:1-41:12
+INJECTED from C:\Users\Sherdon Brown\Downloads\android-BasicAndroidKeyStore-master\android-BasicAndroidKeyStore-master\Application\src\main\AndroidManifest.xml:20:1-41:12
+	package
+		ADDED from C:\Users\Sherdon Brown\Downloads\android-BasicAndroidKeyStore-master\android-BasicAndroidKeyStore-master\Application\src\main\AndroidManifest.xml:21:5-55
+	android:versionName
+		ADDED from C:\Users\Sherdon Brown\Downloads\android-BasicAndroidKeyStore-master\android-BasicAndroidKeyStore-master\Application\src\main\AndroidManifest.xml:23:5-30
+		INJECTED from C:\Users\Sherdon Brown\Downloads\android-BasicAndroidKeyStore-master\android-BasicAndroidKeyStore-master\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sherdon Brown\Downloads\android-BasicAndroidKeyStore-master\android-BasicAndroidKeyStore-master\Application\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Sherdon Brown\Downloads\android-BasicAndroidKeyStore-master\android-BasicAndroidKeyStore-master\Application\src\main\AndroidManifest.xml:20:11-69
+	android:versionCode
+		ADDED from C:\Users\Sherdon Brown\Downloads\android-BasicAndroidKeyStore-master\android-BasicAndroidKeyStore-master\Application\src\main\AndroidManifest.xml:22:5-28
+		INJECTED from C:\Users\Sherdon Brown\Downloads\android-BasicAndroidKeyStore-master\android-BasicAndroidKeyStore-master\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sherdon Brown\Downloads\android-BasicAndroidKeyStore-master\android-BasicAndroidKeyStore-master\Application\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\Sherdon Brown\Downloads\android-BasicAndroidKeyStore-master\android-BasicAndroidKeyStore-master\Application\src\main\AndroidManifest.xml:27:5-40:19
+	android:label
+		ADDED from C:\Users\Sherdon Brown\Downloads\android-BasicAndroidKeyStore-master\android-BasicAndroidKeyStore-master\Application\src\main\AndroidManifest.xml:28:9-41
+	android:icon
+		ADDED from C:\Users\Sherdon Brown\Downloads\android-BasicAndroidKeyStore-master\android-BasicAndroidKeyStore-master\Application\src\main\AndroidManifest.xml:29:9-43
+	android:allowBackup
+		ADDED from C:\Users\Sherdon Brown\Downloads\android-BasicAndroidKeyStore-master\android-BasicAndroidKeyStore-master\Application\src\main\AndroidManifest.xml:27:18-44
+	android:theme
+		ADDED from C:\Users\Sherdon Brown\Downloads\android-BasicAndroidKeyStore-master\android-BasicAndroidKeyStore-master\Application\src\main\AndroidManifest.xml:30:9-40
+activity#com.example.android.basicandroidkeystore.MainActivity
+ADDED from C:\Users\Sherdon Brown\Downloads\android-BasicAndroidKeyStore-master\android-BasicAndroidKeyStore-master\Application\src\main\AndroidManifest.xml:32:9-39:20
+	android:label
+		ADDED from C:\Users\Sherdon Brown\Downloads\android-BasicAndroidKeyStore-master\android-BasicAndroidKeyStore-master\Application\src\main\AndroidManifest.xml:33:19-51
+	android:uiOptions
+		ADDED from C:\Users\Sherdon Brown\Downloads\android-BasicAndroidKeyStore-master\android-BasicAndroidKeyStore-master\Application\src\main\AndroidManifest.xml:34:19-63
+	android:name
+		ADDED from C:\Users\Sherdon Brown\Downloads\android-BasicAndroidKeyStore-master\android-BasicAndroidKeyStore-master\Application\src\main\AndroidManifest.xml:32:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Sherdon Brown\Downloads\android-BasicAndroidKeyStore-master\android-BasicAndroidKeyStore-master\Application\src\main\AndroidManifest.xml:35:13-38:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Sherdon Brown\Downloads\android-BasicAndroidKeyStore-master\android-BasicAndroidKeyStore-master\Application\src\main\AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from C:\Users\Sherdon Brown\Downloads\android-BasicAndroidKeyStore-master\android-BasicAndroidKeyStore-master\Application\src\main\AndroidManifest.xml:36:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Sherdon Brown\Downloads\android-BasicAndroidKeyStore-master\android-BasicAndroidKeyStore-master\Application\src\main\AndroidManifest.xml:37:17-77
+	android:name
+		ADDED from C:\Users\Sherdon Brown\Downloads\android-BasicAndroidKeyStore-master\android-BasicAndroidKeyStore-master\Application\src\main\AndroidManifest.xml:37:27-74
+uses-sdk
+INJECTED from C:\Users\Sherdon Brown\Downloads\android-BasicAndroidKeyStore-master\android-BasicAndroidKeyStore-master\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Sherdon Brown\Downloads\android-BasicAndroidKeyStore-master\android-BasicAndroidKeyStore-master\Application\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Sherdon Brown\Downloads\android-BasicAndroidKeyStore-master\android-BasicAndroidKeyStore-master\Application\src\main\AndroidManifest.xml
+MERGED from [com.android.support:support-v13:27.0.2] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\support-v13-27.0.2.aar\ffb43aa149fcd366afbf592ad254e5ed\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:27.0.2] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\support-v13-27.0.2.aar\ffb43aa149fcd366afbf592ad254e5ed\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\501cc50acc9d9531f517c3abbc1fd09d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\501cc50acc9d9531f517c3abbc1fd09d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\08a8dcffaf9de09d197c100d7ecc9e1c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\08a8dcffaf9de09d197c100d7ecc9e1c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\63f3ef239285e6ff1716f364772a1b29\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\63f3ef239285e6ff1716f364772a1b29\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\d01d8f271956837aa60c7834faf97fd8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\d01d8f271956837aa60c7834faf97fd8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\1abc51fa82b555bb051a35ddf228dfe5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\1abc51fa82b555bb051a35ddf228dfe5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\181035d93796e81c67a2431f672f7edd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\181035d93796e81c67a2431f672f7edd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\ef45a1dc3ba7d49b523b3e54c1be786e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\ef45a1dc3ba7d49b523b3e54c1be786e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\43e4fe5068f95509ed9929c40d53132f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\43e4fe5068f95509ed9929c40d53132f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\af7ce347e7e4a7a20e4d4269d829fd5f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\af7ce347e7e4a7a20e4d4269d829fd5f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\21dc6731ff8edcfe3d0bfcbe153a9fa5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\21dc6731ff8edcfe3d0bfcbe153a9fa5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\cffe6ee3a8351826840ee3298befbcbe\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\cffe6ee3a8351826840ee3298befbcbe\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\Sherdon Brown\Downloads\android-BasicAndroidKeyStore-master\android-BasicAndroidKeyStore-master\Application\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Sherdon Brown\Downloads\android-BasicAndroidKeyStore-master\android-BasicAndroidKeyStore-master\Application\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Sherdon Brown\Downloads\android-BasicAndroidKeyStore-master\android-BasicAndroidKeyStore-master\Application\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Sherdon Brown\Downloads\android-BasicAndroidKeyStore-master\android-BasicAndroidKeyStore-master\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sherdon Brown\Downloads\android-BasicAndroidKeyStore-master\android-BasicAndroidKeyStore-master\Application\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Sherdon Brown\Downloads\android-BasicAndroidKeyStore-master\android-BasicAndroidKeyStore-master\Application\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Sherdon Brown\Downloads\android-BasicAndroidKeyStore-master\android-BasicAndroidKeyStore-master\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sherdon Brown\Downloads\android-BasicAndroidKeyStore-master\android-BasicAndroidKeyStore-master\Application\src\main\AndroidManifest.xml
